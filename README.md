@@ -4,9 +4,9 @@ Molokai is a Vim port of the monokai theme for TextMate originally created by Wi
 
 By default, it has a dark gray background based on the version created by Hamish Stuart Macpherson for the E editor.
 
-![Gray Background](http://www.winterdom.com/weblog/content/binary/WindowsLiveWriter/MolokaiforVim_8602/molokai_normal_small_3.png)
+![Gray Background](https://user-images.githubusercontent.com/13169164/94844241-91973f00-03e3-11eb-8610-425c0da15395.png)
 
-![Molokai Original](http://www.winterdom.com/weblog/content/binary/WindowsLiveWriter/MolokaiforVim_8602/molokai_original_small_3.png)
+![Molokai Original](https://user-images.githubusercontent.com/13169164/94845684-a674d200-03e5-11eb-9d1d-3a35ff949b3b.png)
 
 256-Color terminals are also supported, though there are some differences with the Gui version. Only the dark gray background style is supported on terminal vim at this time.
 
